@@ -1,2 +1,2 @@
-# power_bi
+# Power BI
 Storage for power bi external elements
